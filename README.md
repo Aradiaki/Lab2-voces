@@ -324,4 +324,6 @@ snr de la señal separada S2:  23.612265586853027Db
 	import numpy as np
 	from sklearn.decomposition import FastICA
 	import soundfile as sf
-
+ 
+ ## archivos de interes
+ https://drive.google.com/drive/folders/1N0kU-7dMvosN9qkDiKMWhqSfCaP81_aB?usp=sharing
